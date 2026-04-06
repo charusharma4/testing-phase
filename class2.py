@@ -1,2 +1,0 @@
-def about():
-    print("hello")
